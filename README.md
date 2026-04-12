@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Harshal Wankhede 👋</h1>
-  <p><b>Software Developer | Aspiring DevOps Engineer | Cloud Enthusiast</b></p>
+  <p><b>Software Developer | DevOps Engineer | Cloud Enthusiast</b></p>
 
   <a href="https://linkedin.com/in/your-profile-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
