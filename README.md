@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile.webp" width="160" height="160" style="border-radius:50%;object-fit:cover;" alt="Harshal Wankhede" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harshal+Wankhede;DevOps+and+Build%2FRelease+Engineer;GitLab+CI%2FCD+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 </h1>
