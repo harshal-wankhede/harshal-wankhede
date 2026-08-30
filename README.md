@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harshal+Wankhede;DevOps+and+Build%2FRelease+Engineer;GitLab+CI%2FCD+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harshal+Wankhede+%F0%9F%91%8B;DevOps+and+Build%2FRelease+Engineer;GitLab+CI%2FCD+%7C+Docker+%7C+AWS;Automating+deployments%2C+one+pipeline+at+a+time" alt="Typing SVG" />
 </h1>
 
 <p align="center">
