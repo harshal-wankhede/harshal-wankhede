@@ -1,59 +1,48 @@
-# Hi, I'm Harshal Wankhede 👋
+<div align="center">
+  <h1>Hi there, I'm Harshal Wankhede 👋</h1>
+  <p><b>DevOps & Build/Release Engineer | Software Developer | Cloud Enthusiast</b></p>
+  <a href="https://linkedin.com/in/harshal-w" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harshalw771@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-**DevOps & Build/Release Engineer** | Pune, Maharashtra, India
+---
 
-I work on GitLab administration, build & release management, and CI/CD workflows for an enterprise core banking system, and I build self-directed projects to sharpen my DevOps skills further.
+### 👨‍💻 About Me
+I am a **DevOps & Build/Release Engineer** at **Peocit Software Solutions Pvt. Ltd.**, working on GitLab administration, CI/CD, and production support for an enterprise core banking system. I specialize in building robust applications using Java and .NET, but my true passion lies in the world of **DevOps and Automation**.
 
-## 🔧 What I Do
+- 🔭 **Currently Focusing On:** Build & release management with GitLab CI/CD, and scaling applications with Docker.
+- 🌱 **Learning Path:** Mastering Jenkins pipelines, Ansible, Terraform (IaC), and advanced AWS architectures.
+- 👯 **Collaborations:** Open to contributing to Open Source DevOps tools or Full-stack projects.
+- 💬 **Ask Me About:** GitLab CI/CD, Java, React, C# .NET, AWS, and Linux.
+- 🎸 **Fun Fact:** When I'm not debugging code, I'm likely playing my guitar or hiking up a trail.
 
-- 🛠️ Manage weekly release builds and deployment workflows through **GitLab CI/CD**
-- 🔀 Administer GitLab repositories, access controls, and branching strategies across Dev/QA/Release/Prod
-- 🐛 Diagnose and resolve application defects using C#, ASP.NET MVC, JavaScript, and MySQL
-- 📊 Partner with QA & Ops on production incident troubleshooting and root cause analysis
-- 📜 Write PowerShell/shell scripts for build verification and deployment support
+---
 
-## 🧰 Tech Stack
+### 🛠️ My Skill Set
 
-**DevOps & CI/CD**
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql) ![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb) |
 
-**Cloud & OS**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+---
 
-**Development**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+### 📊 GitHub Stats
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshal-wankhede&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-wankhede&layout=compact&theme=radical"/>
+</div>
 
-## 🚀 Featured Project
+---
 
-### [Automated CI/CD Deployment Pipeline](https://github.com/harshal-wankhede)
-Self-directed project using **GitLab CI/CD, Docker, and AWS EC2** to build a fully automated deployment pipeline — containerizing a sample app with custom Dockerfiles and scripting continuous deployment workflows to remove manual intervention.
-
-## 🎓 Education & Certifications
-
-- 🎓 M.Sc. Computer Science — North Maharashtra University (CGPA: 9.88/10.0)
-- 🎓 B.Sc. Computer Science — North Maharashtra University
-- 📜 AWS Zero to Hero — Train with Shubham
-- 📜 Core Java Certification — Radical Technologies
-- 📜 DevOps Professional Certification — Naresh I Tech
-- 📜 ServiceNow App Developer Core Skills
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-w)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshalw771@gmail.com)
+<div align="center">
+  <i>"Automating the world, one commit at a time."</i><br/>
+  <b>Thanks for visiting! Let's build something amazing together.</b>
+</div>
