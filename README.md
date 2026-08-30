@@ -1,48 +1,100 @@
 <div align="center">
-  <h1>Hi there, I'm Harshal Wankhede 👋</h1>
-  <p><b>DevOps & Build/Release Engineer | Software Developer | Cloud Enthusiast</b></p>
-  <a href="https://linkedin.com/in/harshal-w" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:harshalw771@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:2496ED&height=200&section=header&text=Harshal%20Wankhede&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Build%2FRelease%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=DevOps+%26+Build%2FRelease+Engineer;GitLab+CI%2FCD+%7C+Docker+%7C+AWS;Automating+deployments%2C+one+pipeline+at+a+time" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/harshal-w" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:harshalw771@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/harshal-wankhede" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
----
+<br/>
 
 ### 👨‍💻 About Me
-I am a **DevOps & Build/Release Engineer** at **Peocit Software Solutions Pvt. Ltd.**, working on GitLab administration, CI/CD, and production support for an enterprise core banking system. I specialize in building robust applications using Java and .NET, but my true passion lies in the world of **DevOps and Automation**.
 
-- 🔭 **Currently Focusing On:** Build & release management with GitLab CI/CD, and scaling applications with Docker.
-- 🌱 **Learning Path:** Mastering Jenkins pipelines, Ansible, Terraform (IaC), and advanced AWS architectures.
-- 👯 **Collaborations:** Open to contributing to Open Source DevOps tools or Full-stack projects.
-- 💬 **Ask Me About:** GitLab CI/CD, Java, React, C# .NET, AWS, and Linux.
-- 🎸 **Fun Fact:** When I'm not debugging code, I'm likely playing my guitar or hiking up a trail.
+I'm a **DevOps & Build/Release Engineer** at **Peocit Software Solutions Pvt. Ltd.**, based in Pune, India — working on GitLab administration, release management, and production support for an enterprise **core banking system (K3one)**. Alongside my day job, I build self-directed projects to push my automation and cloud skills further.
 
----
+```yaml
+role: DevOps & Build/Release Engineer
+company: Peocit Software Solutions Pvt. Ltd.
+location: Pune, Maharashtra, India
+focus: [GitLab CI/CD, Docker, AWS, Release Management]
+learning: [Ansible, Terraform, Kubernetes]
+fun_fact: "Debugs code by day, plays guitar & hikes trails by night 🎸⛰️"
+```
 
-### 🛠️ My Skill Set
+<br/>
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitLab](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql) ![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb) |
+### 🛠️ Tech Stack
 
----
+<div align="center">
+
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gitlab,git,linux,ansible" />
+
+**Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,dotnet,cs,python,js,react,html,css" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</div>
+
+<br/>
+
+### 🚀 Featured Project
+
+> **[Automated CI/CD Deployment Pipeline](https://github.com/harshal-wankhede)**
+> Self-directed project using **GitLab CI/CD, Docker & AWS EC2** — containerized a sample app with custom Dockerfiles and scripted a fully automated deployment workflow, removing manual intervention end to end.
+
+<br/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshal-wankhede&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-wankhede&layout=compact&theme=radical"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshal-wankhede&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-wankhede&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-wankhede&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+### 🏆 Trophies
 
 <div align="center">
-  <i>"Automating the world, one commit at a time."</i><br/>
-  <b>Thanks for visiting! Let's build something amazing together.</b>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshal-wankhede&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎓 Education & Certifications
+
+🎓 M.Sc. Computer Science — North Maharashtra University (CGPA: 9.88/10.0)&nbsp;&nbsp;|&nbsp;&nbsp;🎓 B.Sc. Computer Science — North Maharashtra University
+
+📜 AWS Zero to Hero &nbsp;•&nbsp; 📜 Core Java (Radical Technologies) &nbsp;•&nbsp; 📜 DevOps Professional Certification &nbsp;•&nbsp; 📜 ServiceNow App Developer
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0077B5&height=100&section=footer"/>
+
+<i>"Automating the world, one commit at a time."</i>
+
 </div>
