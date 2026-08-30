@@ -1,107 +1,131 @@
-<p align="center">
-  <img src="./assets/profile.webp" width="160" height="160" style="border-radius:50%;object-fit:cover;" alt="Harshal Wankhede" />
-</p>
+# Hi, I'm Harshal Wankhede 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Harshal+Wankhede;DevOps+and+Build%2FRelease+Engineer;GitLab+CI%2FCD+%7C+Docker+%7C+AWS" alt="Typing SVG" />
-</h1>
+### DevOps & Build/Release Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍-Pune,_India-6C63FF?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/💼-Peocit_Software_Solutions-6C63FF?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🎯-Core_Banking_%7C_K3one-6C63FF?style=flat-square&labelColor=1a1a2e" />
-</p>
+📍 Pune, Maharashtra, India  
+💼 Nearly 3 years of experience in DevOps, Build & Release Management  
+☁️ AWS | 🐳 Docker | 🔄 GitLab CI/CD | ⚙️ Jenkins | 🐧 Linux
 
-<p align="center">
-  <a href="https://linkedin.com/in/harshal-w"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="mailto:harshalw771@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="https://github.com/harshal-wankhede"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
-</p>
+---
 
-<br/>
+## 👨‍💻 About Me
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+I'm a **DevOps & Build/Release Engineer** with nearly 3 years of hands-on experience in:
 
-### 🧭 About Me
+- GitLab administration and repository management
+- Build & Release Management
+- CI/CD workflows
+- Application troubleshooting
+- Production support
+- Linux environments
+- Enterprise software releases
 
-I'm a **DevOps & Build/Release Engineer** based in Pune, India, currently building and maintaining CI/CD pipelines for an enterprise **core banking system**. I specialize in GitLab administration, release orchestration, and production troubleshooting — with a growing focus on containerization and cloud infrastructure.
+Currently, I'm focused on building deeper expertise in **Cloud, CI/CD Automation, Docker, Infrastructure as Code, and DevOps practices** through hands-on projects and continuous learning.
 
-```
-🔭  Working on   → GitLab CI/CD & release pipelines
-🌱  Learning      → Ansible · Terraform · Kubernetes
-💬  Ask me about  → GitLab, Docker, AWS, C#/.NET
-📫  Reach me      → harshalw771@gmail.com
-🎸  Off the clock → Guitar and trail hikes
-```
+---
 
-</td>
-<td width="45%" valign="top">
+## 🛠️ Tech Stack
 
-### ⚡ Quick Stats
+### 🚀 DevOps & CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshal-wankhede&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&count_private=true" width="100%"/>
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</td>
-</tr>
-</table>
+**AWS:** EC2 • S3 • IAM • VPC
 
-<br/>
+### 💻 Programming & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🧰 Tech Stack
+**Technologies:**  
+C# • ASP.NET MVC • Python • Java • JavaScript • React.js • REST APIs • Shell Scripting
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gitlab,git,linux,ansible,terraform&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,dotnet,cs,python,js,react,mysql,mongodb&theme=dark" />
-</p>
+### 🗄️ Databases & Tools
 
-<br/>
+**Databases:**  
+MySQL • MS SQL Server • MongoDB • SQL Optimization
 
-### 📈 Activity
+**Tools:**  
+ServiceNow • PowerShell • IIS • GitLab
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-wankhede&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=ffffff" width="100%"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-wankhede&theme=dracula&hide_border=true&background=1a1a2e&ring=6C63FF&fire=6C63FF" />
-</p>
+## 💼 Professional Experience
 
-<br/>
+### Technical Support Engineer
+**Peocit Software Solutions Pvt. Ltd.**  
+`Nov 2023 – Present`
 
-### 🚀 Featured Project
+**K3one — Core Banking Solution**
 
-<table align="center">
-<tr>
-<td>
+- Managed weekly release builds and deployment workflows through GitLab CI/CD.
+- Administered enterprise GitLab repositories, access controls, and branching strategies.
+- Managed Development, QA, Release, and Production workflows.
+- Created, reviewed, and approved Merge Requests.
+- Resolved merge conflicts during release cycles.
+- Troubleshot application defects using C#, ASP.NET MVC, JavaScript, and MySQL.
+- Investigated production incidents through log analysis and root cause investigation.
+- Coordinated releases across Development, QA, Infrastructure, and Deployment teams.
+- Wrote PowerShell scripts for build verification and deployment support.
+- Standardized artifact management and release workflows for IIS-hosted environments.
+- Performed functional, regression, and release validation testing.
 
-**[Automated CI/CD Deployment Pipeline](https://github.com/harshal-wankhede)**
-Self-directed build using **GitLab CI/CD, Docker & AWS EC2** — containerized a sample app with custom Dockerfiles and scripted a fully automated deployment workflow end to end, independent of day-to-day job responsibilities.
+---
 
-`GitLab CI/CD` `Docker` `AWS EC2`
+## 🚀 Featured DevOps Project
 
-</td>
-</tr>
-</table>
+### Automated CI/CD Deployment Pipeline
 
-<br/>
+**GitLab CI/CD • Docker • AWS EC2**
 
-### 🎓 Education & Certifications
+A self-directed DevOps project designed to automate application deployment using modern CI/CD practices.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/M.Sc._Computer_Science-CGPA_9.88-6C63FF?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/B.Sc._Computer_Science-North_Maharashtra_University-6C63FF?style=flat-square&labelColor=1a1a2e" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Zero_to_Hero-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6C63FF" />
-  <img src="https://img.shields.io/badge/Core_Java_Certified-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6C63FF" />
-  <img src="https://img.shields.io/badge/DevOps_Professional-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6C63FF" />
-  <img src="https://img.shields.io/badge/ServiceNow_App_Dev-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6C63FF" />
-</p>
+**What I built:**
 
-<br/>
+- Designed an automated GitLab CI/CD pipeline.
+- Containerized a sample application using Docker.
+- Created custom Dockerfiles for consistent deployments.
+- Deployed the application on AWS EC2.
+- Automated continuous deployment workflows.
+- Reduced manual deployment steps through automation.
 
-<p align="center"><i>"Automating the world, one commit at a time."</i></p>
+**Technologies:**
+
+`GitLab CI/CD` `Docker` `AWS EC2` `Linux` `Shell Scripting`
+
+---
+
+## 📚 Currently Learning
+
+```text
+Linux
+   ↓
+Git & GitLab
+   ↓
+CI/CD
+   ↓
+Jenkins
+   ↓
+Docker
+   ↓
+AWS
+   ↓
+Ansible
+   ↓
+Terraform
+   ↓
+Kubernetes
+   ↓
+Cloud & DevOps Engineering
