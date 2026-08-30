@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:2496ED&height=200&section=header&text=Harshal%20Wankhede&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Build%2FRelease%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+# Hi there, I'm Harshal Wankhede 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=DevOps+%26+Build%2FRelease+Engineer;GitLab+CI%2FCD+%7C+Docker+%7C+AWS;Automating+deployments%2C+one+pipeline+at+a+time" alt="Typing SVG" />
+**DevOps & Build/Release Engineer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=DevOps+and+Build%2FRelease+Engineer;GitLab+CI%2FCD+%7C+Docker+%7C+AWS;Automating+deployments%2C+one+pipeline+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -92,8 +94,6 @@ fun_fact: "Debugs code by day, plays guitar & hikes trails by night 🎸⛰️"
 📜 AWS Zero to Hero &nbsp;•&nbsp; 📜 Core Java (Radical Technologies) &nbsp;•&nbsp; 📜 DevOps Professional Certification &nbsp;•&nbsp; 📜 ServiceNow App Developer
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:0077B5&height=100&section=footer"/>
 
 <i>"Automating the world, one commit at a time."</i>
 
