@@ -101,4 +101,8 @@ React interfaces, REST API integrations, and full-stack fixes — the dev roots 
 
 <img src="https://komarev.com/ghpvc/?username=harshal-wankhede&style=flat-square&color=58A6FF&label=Profile+Views" />
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
 </div>
