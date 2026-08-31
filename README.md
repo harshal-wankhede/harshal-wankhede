@@ -84,12 +84,7 @@ React interfaces, REST API integrations, and full-stack fixes — the dev roots 
 
 ### 📈 GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-wankhede&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshal-wankhede&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-wankhede&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshal-wankhede&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 
 </div>
 
