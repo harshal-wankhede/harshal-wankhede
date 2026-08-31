@@ -23,6 +23,7 @@
 ```yaml
 role: DevOps & Build/Release Engineer
 based_in: Pune, India
+background: Started in frontend dev (React) before moving into DevOps
 focus: CI/CD pipelines, release automation, cloud infra
 currently_exploring: Terraform, Kubernetes
 philosophy: "Automate everything that repeats twice."
@@ -33,7 +34,7 @@ philosophy: "Automate everything that repeats twice."
 
 ### ⚡ Quick Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshal-wankhede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshal-wankhede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -53,10 +54,37 @@ philosophy: "Automate everything that repeats twice."
 
 <div align="center">
 
+### 🧩 What I Build
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**⚙️ Infra & Automation**
+<br/>
+CI/CD pipelines, Dockerized environments, and release workflows that turn manual deploys into one-click ships.
+
+</td>
+<td align="center" width="50%">
+
+**💻 Application Dev**
+<br/>
+React interfaces, REST API integrations, and full-stack fixes — the dev roots that make me a better DevOps engineer.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### 📈 GitHub Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-wankhede&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-wankhede&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshal-wankhede&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
 
 <br/><br/>
 
