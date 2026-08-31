@@ -24,7 +24,7 @@
 ```yaml
 role: DevOps & Build/Release Engineer
 based_in: Pune, India
-background: Started in frontend dev (React) before moving into DevOps
+background: Software Development → DevOps
 focus: CI/CD pipelines, release automation, cloud infra
 currently_exploring: Terraform, Kubernetes
 philosophy: "Automate everything that repeats twice."
