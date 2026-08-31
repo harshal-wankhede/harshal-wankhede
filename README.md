@@ -1,43 +1,39 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Harshal+Wankhede+%F0%9F%91%8B;DevOps+and+Build%2FRelease+Engineer;GitLab+CI%2FCD+%7C+Docker+%7C+AWS;Automating+deployments%2C+one+pipeline+at+a+time" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍-Pune,_India-6C63FF?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/💼-Peocit_Software_Solutions-6C63FF?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/🎯-Core_Banking_%7C_K3one-6C63FF?style=flat-square&labelColor=1a1a2e" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harshal%20Wankhede&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Build%20%26%20Release%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/harshal-w"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="mailto:harshalw771@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-  <a href="https://github.com/harshal-wankhede"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" /></a>
-</p>
+<a href="https://linkedin.com/in/harshal-w"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:harshalw771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/harshal-wankhede"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/>
 
-<table align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Automating+builds%2C+one+pipeline+at+a+time;GitLab+CI%2FCD+%7C+Docker+%7C+AWS;Turning+manual+deploys+into+one-click+releases" />
+
+</div>
+
+<br/>
+
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-### 🧭 About Me
+### 🧭 About
 
-I'm a **DevOps & Build/Release Engineer** based in Pune, India, currently building and maintaining CI/CD pipelines for an enterprise **core banking system**. I specialize in GitLab administration, release orchestration, and production troubleshooting — with a growing focus on containerization and cloud infrastructure.
-
-```
-🔭  Working on   → GitLab CI/CD & release pipelines
-🌱  Learning      → Ansible · Terraform · Kubernetes
-💬  Ask me about  → GitLab, Docker, AWS, C#/.NET
-📫  Reach me      → harshalw771@gmail.com
-🎸  Off the clock → Guitar and trail hikes
+```yaml
+role: DevOps & Build/Release Engineer
+based_in: Pune, India
+focus: CI/CD pipelines, release automation, cloud infra
+currently_exploring: Terraform, Kubernetes
+philosophy: "Automate everything that repeats twice."
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 ### ⚡ Quick Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshal-wankhede&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=6C63FF&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshal-wankhede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
 
 </td>
 </tr>
@@ -45,59 +41,42 @@ I'm a **DevOps & Build/Release Engineer** based in Pune, India, currently buildi
 
 <br/>
 
-### 🧰 Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gitlab,git,linux,ansible,terraform&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,dotnet,cs,python,js,react,mysql,mongodb&theme=dark" />
-</p>
+### 🛠️ Tech Stack
 
-<br/>
+<img src="https://skillicons.dev/icons?i=gitlab,git,docker,jenkins,ansible,bash,aws,linux,cs,java,python,js,react,dotnet,mysql,mongodb&theme=dark" />
 
-### 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-wankhede&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=ffffff" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-wankhede&theme=dracula&hide_border=true&background=1a1a2e&ring=6C63FF&fire=6C63FF" />
-</p>
+</div>
 
 <br/>
 
-### 🚀 Featured Project
+<div align="center">
 
-<table align="center">
-<tr>
-<td>
+### 📈 GitHub Activity
 
-**[Automated CI/CD Deployment Pipeline](https://github.com/harshal-wankhede)**
-Self-directed build using **GitLab CI/CD, Docker & AWS EC2** — containerized a sample app with custom Dockerfiles and scripted a fully automated deployment workflow end to end, independent of day-to-day job responsibilities.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-wankhede&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal-wankhede&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
 
-`GitLab CI/CD` `Docker` `AWS EC2`
+<br/><br/>
 
-</td>
-</tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-wankhede&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
 
 <br/>
 
-### 🎓 Education & Certifications
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/M.Sc._Computer_Science-CGPA_9.88-6C63FF?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/B.Sc._Computer_Science-North_Maharashtra_University-6C63FF?style=flat-square&labelColor=1a1a2e" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Zero_to_Hero-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6C63FF" />
-  <img src="https://img.shields.io/badge/Core_Java_Certified-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6C63FF" />
-  <img src="https://img.shields.io/badge/DevOps_Professional-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6C63FF" />
-  <img src="https://img.shields.io/badge/ServiceNow_App_Dev-1a1a2e?style=flat-square&labelColor=1a1a2e&color=6C63FF" />
-</p>
+### 🤝 Connect
 
-<br/>
+<a href="https://linkedin.com/in/harshal-w"><img src="https://img.shields.io/badge/-Let's%20connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:harshalw771@gmail.com"><img src="https://img.shields.io/badge/-Drop%20me%20an%20email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<p align="center"><i>"Automating the world, one commit at a time."</i></p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=harshal-wankhede&style=flat-square&color=58A6FF&label=Profile+Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
