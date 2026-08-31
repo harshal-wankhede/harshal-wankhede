@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harshal%20Wankhede&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Build%20%26%20Release%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+# Harshal Wankhede
+### DevOps & Build/Release Engineer
 
 <a href="https://linkedin.com/in/harshal-w"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:harshalw771@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -104,7 +105,5 @@ React interfaces, REST API integrations, and full-stack fixes — the dev roots 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=harshal-wankhede&style=flat-square&color=58A6FF&label=Profile+Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
